@@ -2,6 +2,13 @@
 
 class Video
 {
+    /**
+     * Factory method
+     *
+     * @param array $youtubeData
+     *
+     * @return Video
+     */
     public static function createFromYoutube(array $youtubeData)
     {
         $video = new self();

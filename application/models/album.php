@@ -1,6 +1,13 @@
 <?php
 class Album
 {
+    /**
+     * Factory method
+     *
+     * @param array $itunesData
+     *
+     * @return Album
+     */
     public static function createFromItunes(array $itunesData)
     {
         $album = new self();

@@ -48,22 +48,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/libraries/Services/Memcache.php" />
-        <option value="$PROJECT_DIR$/application/models/album.php" />
-        <option value="$PROJECT_DIR$/application/models/Repository/albumrepository.php" />
         <option value="$PROJECT_DIR$/application/controllers/welcome.php" />
         <option value="$PROJECT_DIR$/application/models/Repository/videorepository.php" />
-        <option value="$PROJECT_DIR$/application/models/video.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/models/artist.php" />
         <option value="$PROJECT_DIR$/application/models/Repository/artistrepository.php" />
         <option value="$PROJECT_DIR$/application/views/artist/index.php" />
         <option value="$PROJECT_DIR$/application/views/artist/info.php" />
         <option value="$PROJECT_DIR$/application/controllers/artist.php" />
-        <option value="$PROJECT_DIR$/application/libraries/Services/iTunes.php" />
         <option value="$PROJECT_DIR$/application/libraries/Services/YouTube.php" />
         <option value="$PROJECT_DIR$/application/libraries/Services/LastFm.php" />
+        <option value="$PROJECT_DIR$/application/models/album.php" />
+        <option value="$PROJECT_DIR$/application/models/artistmodel.php" />
+        <option value="$PROJECT_DIR$/application/models/video.php" />
+        <option value="$PROJECT_DIR$/application/models/Repository/albumrepository.php" />
         <option value="$PROJECT_DIR$/application/libraries/Services/CoolCache.php" />
+        <option value="$PROJECT_DIR$/application/libraries/Services/iTunes.php" />
       </list>
     </option>
   </component>
@@ -106,6 +106,128 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="totalmusic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="totalmusic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -226,13 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Repository/albumrepository.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="601" selection-end="601" vertical-scroll-proportion="0.5856905">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="38" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.69550174">
@@ -240,30 +355,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/welcome.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="5" selection-start="1224" selection-end="1224" vertical-scroll-proportion="1.0242214">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/artistmodel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="407" selection-end="407" vertical-scroll-proportion="0.39933443">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/artist/info.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="14" selection-start="15" selection-end="15" vertical-scroll-proportion="0.027681662">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/artist.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="52" selection-start="199" selection-end="199" vertical-scroll-proportion="0.16608997">
           <folding />
         </state>
       </provider>
@@ -282,30 +376,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/libraries/Services/iTunes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="25" selection-start="776" selection-end="776" vertical-scroll-proportion="0.6389351">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/album.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="25" selection-start="434" selection-end="434" vertical-scroll-proportion="0.45257902">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Repository/videorepository.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="26" selection-start="610" selection-end="610" vertical-scroll-proportion="0.6123128">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/video.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="76" selection-start="330" selection-end="330" vertical-scroll-proportion="0.26622295">
           <folding />
         </state>
       </provider>
@@ -324,9 +397,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/artist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="52" selection-start="199" selection-end="199" vertical-scroll-proportion="0.15973377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/album.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="56" selection-end="56" vertical-scroll-proportion="0.12146422">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/artistmodel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="541" selection-end="541" vertical-scroll-proportion="0.46755406">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="57" selection-end="57" vertical-scroll-proportion="0.13311148">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Repository/albumrepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.079866886">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/libraries/Services/CoolCache.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="233" selection-end="233" vertical-scroll-proportion="0.26622295">
+        <state line="4" column="95" selection-start="135" selection-end="135" vertical-scroll-proportion="0.10648918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/Services/iTunes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="51" selection-end="51" vertical-scroll-proportion="0.10648918">
           <folding />
         </state>
       </provider>

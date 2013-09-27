@@ -1,6 +1,9 @@
 <?php
 require_once 'CoolCache.php';
 
+/**
+ * Wrapper Class Itunes
+ */
 class Itunes
 {
     const CACHE_KEY = 'itunes';

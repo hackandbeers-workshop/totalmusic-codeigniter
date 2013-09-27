@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Singleton Class CoolCache
+ * To use it first enable memcache in your local environment and uncomment lines in each service
+ */
 class CoolCache
 {
     private static $instance;

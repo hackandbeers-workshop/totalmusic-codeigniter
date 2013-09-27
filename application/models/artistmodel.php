@@ -2,6 +2,13 @@
 
 class ArtistModel
 {
+    /**
+     * Factory method
+     *
+     * @param array $lastFmData
+     *
+     * @return ArtistModel
+     */
     public static function createFromLastFm(array $lastFmData)
     {
         $artist = new self();
@@ -15,8 +22,6 @@ class ArtistModel
     protected $albums;
     protected $biography;
     protected $name;
-
-
     protected $picture;
     protected $videos;
 
